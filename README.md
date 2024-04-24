@@ -12,7 +12,7 @@ GitHub Actions: Implements Continuous Integration (CI) using GitHub Actions for 
 
 # How to use
 
-Dataset: You can find the dataset used for training is [Here]([https://github.com](https://www.kaggle.com/code/myr9988/facial-emotion-recognition-image-classification/input))
+Dataset: You can find the dataset used for training is [Here](https://www.kaggle.com/code/myr9988/facial-emotion-recognition-image-classification/input)
 
 Training: The model training script is available in the face_emotion_detection.ipynb directory. Adjust the hyperparameters as needed.
 Inference: Once trained, the model can be used for inference on new images. 
