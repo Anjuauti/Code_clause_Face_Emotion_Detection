@@ -14,8 +14,7 @@ GitHub Actions: Implements Continuous Integration (CI) using GitHub Actions for 
 
 Dataset: You can find the dataset used for training in this repository.
 Training: The model training script is available in the face_emotion_detection.ipynb directory. Adjust the hyperparameters as needed.
-Inference: Once trained, the model can be used for inference on new images. some sample images are provided in test folder
-
+Inference: Once trained, the model can be used for inference on new images. 
 # Acknowledgments
 
 Special thanks to CodeClause for providing the internship opportunity.
